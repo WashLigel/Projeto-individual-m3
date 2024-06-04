@@ -1,7 +1,6 @@
 # Projeto-individual-m3
 Relatórios De progresso
 
-markdown
 # Relatório de Análise de Dados
 
 ## Descrição
