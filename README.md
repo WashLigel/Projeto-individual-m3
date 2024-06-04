@@ -9,7 +9,7 @@ Este projeto envolve a análise dos dados de uma empresa de desenvolvimento de s
 
 ## Instruções de Instalação
 1. Clone o repositório.
-2. Abra o notebook `analise_dados.ipynb` no Jupyter Notebook ou Google Colab.
+2. Abra o notebook `Relatório de progresso.ipynb` no Jupyter Notebook ou Google Colab.
 3. Certifique-se de que todas as bibliotecas necessárias estão instaladas:
    sh
    pip install pandas matplotlib seaborn
